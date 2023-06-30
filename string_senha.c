@@ -16,5 +16,5 @@ int main()
 	n=strcmp(senha, "luke@lind0");
  }
 	while (n != 0); //para ficar preso la dentro
-	
+
 }

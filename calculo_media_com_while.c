@@ -20,8 +20,6 @@ int main ()
     while(n==1);
        { m = (a+b)/2;
         printf("\nA media deu %f", m);
-        
-        
        }
 
 }
